@@ -1,5 +1,4 @@
 {
-  "status": "DOWN",
-  "level": "YELLOW",
-  "message": "Roost is performing regular maintenance on our systems. Please check back in an hour."
+  "status": "MAINTENANCE",
+  "message": "We're sorry for any inconvenience you may experience in the meantime. Roost will be back online by Mon DD YYYY, HH:MM PST"
 }

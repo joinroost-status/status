@@ -1,5 +1,4 @@
 {
-  "status": "UP",
-  "level": null,
-  "message": null
+  "status": "OUTAGE",
+  "message": "Our engineering team is working to get Roost back online. We're sorry for any inconvenience you may experience in the meantime."
 }
