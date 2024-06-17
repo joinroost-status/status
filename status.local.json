@@ -1,4 +1,6 @@
 {
   "status": "DEGRADED",
-  "message": "We are unable to accept credit card payments at this time."
+  "maintenanceMessage": null,
+  "adminMessage": null,
+  "residentMessage": "We are unable to accept credit card payments at this time."
 }

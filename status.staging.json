@@ -1,4 +1,6 @@
 {
   "status": "INFO",
-  "message": "We will be conducting scheduled maintenance on Mon DD YYYY, HH:MM PST"
+  "maintenanceMessage": null,
+  "adminMessage": "We will be conducting scheduled maintenance on Mon DD YYYY, HH:MM PST",
+  "residentMessage": null
 }
