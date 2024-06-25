@@ -1,4 +1,6 @@
 {
   "status": "UP",
-  "message": null
+  "maintenanceMessage": null,
+  "adminMessage": null,
+  "propertyMessage": null
 }
