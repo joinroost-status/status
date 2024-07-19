@@ -1,6 +1,6 @@
 {
-  "status": "UP",
+  "status": "DEGRADED",
   "maintenanceMessage": null,
   "adminMessage": null,
-  "residentMessage": null
+  "residentMessage": "Due to worldwide service disruptions, we are unable to process Instant Refunds at this time."
 }
