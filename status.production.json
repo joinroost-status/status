@@ -1,6 +1,6 @@
 {
-  "status": "MAINTENANCE",
+  "status": "UP",
   "maintenanceMessage": null,
-  "adminMessage": "Roost is down for scheduled maintenance until 2:00 AM Pacific, 5:00 AM Eastern, on Saturday October 19th, 2024.",
-  "residentMessage": "Roost is down for scheduled maintenance until 2:00 AM Pacific, 5:00 AM Eastern, on Saturday October 19th, 2024."
+  "adminMessage": null,
+  "residentMessage": null
 }
