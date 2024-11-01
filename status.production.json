@@ -1,6 +1,6 @@
 {
-  "status": "UP",
+  "status": "DEGRADED",
   "maintenanceMessage": null,
-  "adminMessage": null,
+  "adminMessage": "Reporting is currently unavailable as we work on improvements. We’ll have it back up shortly — thanks for your patience!",
   "residentMessage": null
 }
