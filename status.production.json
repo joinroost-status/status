@@ -1,6 +1,6 @@
 {
-  "status": "UP",
+  "status": "MAINTENANCE",
   "maintenanceMessage": null,
-  "adminMessage": null,
-  "residentMessage": null
+  "adminMessage": "Roost is down for scheduled maintenance until 2:00 AM Pacific, 5:00 AM Eastern, on Friday June 13th, 2025.",
+  "residentMessage": "Roost is down for scheduled maintenance until 2:00 AM Pacific, 5:00 AM Eastern, on Friday June 13th, 2025."
 }
