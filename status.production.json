@@ -1,6 +1,6 @@
 {
-  "status": "UP",
+  "status": "OUTAGE",
   "maintenanceMessage": null,
-  "adminMessage": null,
-  "residentMessage": null
+  "adminMessage": "Roost is down for maintenance, and will be available again shortly",
+  "residentMessage": "Roost is down for maintenance, and will be available again shortly"
 }
